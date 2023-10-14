@@ -1,0 +1,2 @@
+libtorch/lib/*.a filter=lfs diff=lfs merge=lfs -text
+libtorch/lib/*.so filter=lfs diff=lfs merge=lfs -text
