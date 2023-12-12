@@ -1,12 +1,4 @@
-# M.I.N.E.R.V.A.
-
-Multifaceted
-Integrated
-Networked
-Educational
-Resource and
-Virtual
-Assistant
+# A Novel API for Explainable Deep Learning Models
 
 ## Overview
 This README details the use of the Python class `ExplainableNode`, designed as a part of our AI research project. This class is a separate Python illustration of the larger C++ class, focusing on enhancing model interpretability.
