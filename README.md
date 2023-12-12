@@ -41,3 +41,5 @@ The `ExplainableNode` class is used by instantiating it with a model and the lay
 
 `run.py` contains the step needed for inilization and replicate the experiment using Expplainable Node on ResNet.
 `train.py` contains the adapted version of train function that allows for the application of Explainable Node.
+
+In the case of graph codes, you should install packages in requirements.txt and run it.
